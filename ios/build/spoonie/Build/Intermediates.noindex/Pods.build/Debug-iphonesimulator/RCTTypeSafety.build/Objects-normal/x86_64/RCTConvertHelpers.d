@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/jtimberlake/Projects/spoonie-reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/jtimberlake/Projects/spoonie-reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/Optional.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/Portability.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/CPortability.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/Traits.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/Utility.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/jtimberlake/Projects/spoonie-reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

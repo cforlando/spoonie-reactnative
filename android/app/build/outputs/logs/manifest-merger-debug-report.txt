@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c5043a60890d900f23a3084cb07a7720/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c4d03ed13247931b399fe34af6d31715/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7a938c92b12e4c15790fa5593ad5306a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cd85f5223f5ac1bc59719919485324f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b6990b3f4a90a4de14ace0e4a5d9ab4d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/16f63c5a77677f01a7f3d2de5765ded1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f1cb3d5cd2490d3b18fdd5663cf4a91f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5df77ef447252c74f0ff09ac1f7aa8e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5fc6c00e1ad7e188c1e7c9270b8ea9ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/bef27ac6e02aefc4ed1cb1d238bdc8fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/9010247629c4263f6e927474ee0f5103/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/fd2c1113d380cc20c0ef37605697dddb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/8fa5ceaf18e9d8cf985e8c71cdf7e494/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/ffcf1d20de6c34ffbfcf8d2ecd80d8ec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7d730b83e3bc812a815d37b9af69593f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/62c77e997848cbb5fc16a16af083a865/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cbfc8a0144ca326fd665247f0ef71a91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/87658fbdd4cac9c701b52dfd13aad923/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/6d324d4abb2514f520dcfeec3b18fec7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f9fc72e442ada490a681fe9dafef2f92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e71c9d9448505dd290cb424599e80375/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/2bc9f5ed13a0f70b1130c4a02fa98b01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a7b0d9a20f1c2841dffe2402e896af0a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/1927118e8129172525186f81383ef26f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e1867be76d9f9d22091ab70047cfb3d9/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4471b3193eeebdae9bf3978369d364ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/24d7d64badba4e4e050950054531769c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a20fdc3e16106a9900cc5c3d2083a445/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/05b8e18811aedeab0d16a72313f62bae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/37267ef8c50431fd983e4e2f769b8d09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b2de0817d63e392a75658bc084ba0065/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f8c1d64a04f1be0b782c7edd9a7653e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4fd611dc6319d39c25c8a1cd140aa93c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f3acfcabbd4975b9428a6fed8d3af7b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/414b67ea09228e81c809c759db5ef6cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/547871c63569a3f551caf391349dc15c/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:2:3-31
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c5043a60890d900f23a3084cb07a7720/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c5043a60890d900f23a3084cb07a7720/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/9010247629c4263f6e927474ee0f5103/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/9010247629c4263f6e927474ee0f5103/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e1867be76d9f9d22091ab70047cfb3d9/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e1867be76d9f9d22091ab70047cfb3d9/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c5043a60890d900f23a3084cb07a7720/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c5043a60890d900f23a3084cb07a7720/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c4d03ed13247931b399fe34af6d31715/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/c4d03ed13247931b399fe34af6d31715/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7a938c92b12e4c15790fa5593ad5306a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7a938c92b12e4c15790fa5593ad5306a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cd85f5223f5ac1bc59719919485324f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cd85f5223f5ac1bc59719919485324f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b6990b3f4a90a4de14ace0e4a5d9ab4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b6990b3f4a90a4de14ace0e4a5d9ab4d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/16f63c5a77677f01a7f3d2de5765ded1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/16f63c5a77677f01a7f3d2de5765ded1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f1cb3d5cd2490d3b18fdd5663cf4a91f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f1cb3d5cd2490d3b18fdd5663cf4a91f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5df77ef447252c74f0ff09ac1f7aa8e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5df77ef447252c74f0ff09ac1f7aa8e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5fc6c00e1ad7e188c1e7c9270b8ea9ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/5fc6c00e1ad7e188c1e7c9270b8ea9ea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/bef27ac6e02aefc4ed1cb1d238bdc8fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/bef27ac6e02aefc4ed1cb1d238bdc8fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/9010247629c4263f6e927474ee0f5103/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/9010247629c4263f6e927474ee0f5103/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/fd2c1113d380cc20c0ef37605697dddb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/fd2c1113d380cc20c0ef37605697dddb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/8fa5ceaf18e9d8cf985e8c71cdf7e494/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/8fa5ceaf18e9d8cf985e8c71cdf7e494/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/ffcf1d20de6c34ffbfcf8d2ecd80d8ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/ffcf1d20de6c34ffbfcf8d2ecd80d8ec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7d730b83e3bc812a815d37b9af69593f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/7d730b83e3bc812a815d37b9af69593f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/62c77e997848cbb5fc16a16af083a865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/62c77e997848cbb5fc16a16af083a865/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cbfc8a0144ca326fd665247f0ef71a91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/cbfc8a0144ca326fd665247f0ef71a91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/87658fbdd4cac9c701b52dfd13aad923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/87658fbdd4cac9c701b52dfd13aad923/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/6d324d4abb2514f520dcfeec3b18fec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/6d324d4abb2514f520dcfeec3b18fec7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f9fc72e442ada490a681fe9dafef2f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f9fc72e442ada490a681fe9dafef2f92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e71c9d9448505dd290cb424599e80375/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e71c9d9448505dd290cb424599e80375/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/2bc9f5ed13a0f70b1130c4a02fa98b01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/2bc9f5ed13a0f70b1130c4a02fa98b01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a7b0d9a20f1c2841dffe2402e896af0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a7b0d9a20f1c2841dffe2402e896af0a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/1927118e8129172525186f81383ef26f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/1927118e8129172525186f81383ef26f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/0a7c56d15981f083743d0e4c5dc64870/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e1867be76d9f9d22091ab70047cfb3d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/e1867be76d9f9d22091ab70047cfb3d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4471b3193eeebdae9bf3978369d364ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4471b3193eeebdae9bf3978369d364ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/24d7d64badba4e4e050950054531769c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/24d7d64badba4e4e050950054531769c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a20fdc3e16106a9900cc5c3d2083a445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/a20fdc3e16106a9900cc5c3d2083a445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/05b8e18811aedeab0d16a72313f62bae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/05b8e18811aedeab0d16a72313f62bae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/37267ef8c50431fd983e4e2f769b8d09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/37267ef8c50431fd983e4e2f769b8d09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b2de0817d63e392a75658bc084ba0065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/b2de0817d63e392a75658bc084ba0065/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f8c1d64a04f1be0b782c7edd9a7653e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f8c1d64a04f1be0b782c7edd9a7653e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4fd611dc6319d39c25c8a1cd140aa93c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/4fd611dc6319d39c25c8a1cd140aa93c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f3acfcabbd4975b9428a6fed8d3af7b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/f3acfcabbd4975b9428a6fed8d3af7b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/414b67ea09228e81c809c759db5ef6cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/414b67ea09228e81c809c759db5ef6cc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/547871c63569a3f551caf391349dc15c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/jtimberlake/.gradle/caches/transforms-2/files-2.1/547871c63569a3f551caf391349dc15c/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/jtimberlake/Projects/spoonie-reactnative/android/app/src/debug/AndroidManifest.xml:5:22-75
